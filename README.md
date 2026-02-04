@@ -1,4 +1,4 @@
-# 🤖 AI-Powered Text-to-SQL (Northwind Explorer)
+# 🤖 AI-Powered Text-to-SQL
 A TypeScript-based backend application that translates natural language questions into complex MySQL queries using OpenAI's GPT-4o and executes them on an **AWS RDS** instance.
 
 ## 🚀 Overview
